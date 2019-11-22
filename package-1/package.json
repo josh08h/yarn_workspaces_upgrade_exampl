@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "webpack": "4.29.3"
+  },
+  "scripts": {
+    "test": "echo 'working...'"
   }
 }
