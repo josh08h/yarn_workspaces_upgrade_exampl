@@ -1,9 +1,9 @@
 {
-  "name": "yarn_upgrade_example",
+  "name": "package-1",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "webpack": "4.29.3"
   }
 }
